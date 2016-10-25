@@ -1,0 +1,378 @@
+/*header头部  start*/
+.header {
+	height: 60px;
+}
+.column {
+	width: 1210px;
+	margin: 0 auto;
+	height: 50px;
+}
+.column .right {
+	margin-top: 22px;
+	color: blue;
+	position: relative;
+}
+.column .right a {
+	color: blue;
+	font-size: 16px;
+}
+.column .right a:hover {
+	text-decoration: underline;
+	color: orange;
+} 
+.column .right b {
+	width: 0;
+	height: 0;
+	display: inline-block;
+	position: absolute;
+	top: 7px;
+	right: 41px;
+	border-width: 8px;
+	border-style: solid dashed dashed dashed ;
+	border-color: #ccc transparent transparent transparent;
+}
+/*header头部  end*/
+/*nav 导航 strat*/
+.nav {
+	/*padding-top: 15px;*/
+	height: 50px;
+}
+.nav .column .top {
+	height: 40px;
+	position: relative;
+}
+.nav .column .top .logo{
+	/*vertical-align: baseline;*/
+	position: absolute;
+	top: -5px;
+	left: 2px;
+}
+.list {
+	position: absolute;
+	top: 5px;
+	left: 130px;
+}
+.nav .column .top  ul li {
+	float: left;
+	padding: 11px ;
+}
+.nav .column .top  ul .news {
+	/*margin-left: 30px;*/
+}
+.nav .column .top  ul .page a{
+	color: #000;
+	text-decoration: none;
+	font-weight: 900;
+	font-family: "微软雅黑";
+}
+.nav .column .top  ul li a {
+	text-decoration: underline;
+	color: blue;
+	font-size: 20px;
+	font-family: "微软雅黑";
+}
+.nav .column .top  ul li a:hover {
+	text-decoration: underline;
+	color: orange;
+} 
+/*nav 导航 end*/
+.search .column {
+	height: 60px;
+	/*margin-top: 20px;*/
+}
+.search .column .inp .txt {
+	width: 707px;
+	height: 37px;
+	font-size: 18px;
+	color: blue;
+	font-weight: bold;
+	font-family: "微软雅黑";
+	border: 2px solid #ccc;
+	border-right: none;
+	float: left;
+}
+.search .column .inp .btn {
+	height: 41px;
+	width: 100px;
+	background: #3385ff;
+	color: #fff;
+	font-size: 14px;
+	/*border-left: 1px solid #ccc;*/
+	font-family: "微软雅黑";
+	float: left;
+	cursor: pointer;
+}
+.search .bt {
+	font-size: 20px;
+	color: #000;
+	font-weight: 400;
+	font-family: "微软雅黑";
+	margin-left: 70px;
+	margin-top: 20px;
+}
+.search .bt #ldn {
+	color: blue;
+	text-decoration: underline;
+}
+.search .bt #ldn:hover {
+	text-decoration: underline;
+	color: orange;
+}
+/*container 内容 start*/
+.container .column {
+	height: 210px;
+	/*margin-top: 20px;*/
+}
+.container .column .left .tp {
+	position: relative;
+}
+.container .column .left .tp a {
+	color: blue;
+	font-size: 18px;
+	font-family: "微软雅黑";
+	text-decoration: underline;
+	/*position: absolute;*/
+	top: 0px;
+}
+.container .column .left .tp a span {
+	color: red;
+}
+.container .column .left .bt{
+	position: relative;
+	/*margin-top: 10px;*/
+}
+.container .column .left .bt .left{
+	background: url(../images/1.png) no-repeat 0px 0px;
+	width: 124px;
+	height: 178px;
+}
+.container .column  .left .bt .right {
+	position: absolute;
+	top: 15px;
+	left: 200px;
+	color: #000;
+	font-size: 14px;
+	font-family: "微软雅黑";
+	margin: 0;
+	width: 485px;
+}
+.container .column  .left .bt .right a {
+	text-decoration: none;
+	/*color: #000;*/
+}
+.container .column .left .bt .right p {
+	margin-bottom: 8px;
+}
+.bt span {
+	font-weight: 900;
+	color: blue;
+}
+.container .column .right {
+	position: relative;
+	color: #000;
+	font-size: 12px;
+	font-family: "微软雅黑";
+	/*font-weight: bold;*/
+}
+.container .column .right .more {
+	position: absolute;
+	top: 0px;
+	left: -239px;
+	border-left: 2px solid #ccc;
+	padding-left: 20px;
+	/*padding-top: 40px;*/
+}
+.container .column .right .mm {
+	padding-top: 30px;
+}
+.container .column .right .more span {
+	font-size: 20px;
+	font-family: "微软雅黑";
+}
+.container .column .right .more p {
+	margin-top: 10px;
+}
+.container .column .right .xz {
+	position: absolute;
+	top: 55px;
+	left: -217px;
+}
+.container .column .right .xz p {
+	margin-bottom: 7px;
+}
+.container .edu {
+	margin-top: 15px;
+	height: 110px;
+} 
+.container .edu2 {
+	height: 130px;
+	margin-bottom: 8px;
+}
+.container .hj {
+	height: 80px;
+}
+.container .zw {
+	height: 90px;
+	margin-top: 0px;
+}
+.container .xx {
+	/*height: 90px;*/
+	margin-top: 45px;
+}
+.container .xx .left .bt {
+	margin-top: 15px;
+}
+.col p {
+	line-height: 24px;
+}
+
+.right .more span a {
+	text-decoration: underline;
+	font-size: 18px;
+}
+.iimg {
+	width: 178px;
+	height: 492px;
+	position: relative;
+	top: 70px;
+	right: 46px;
+	background: #fff url(../images/3.jpg) 0 0 no-repeat;
+}
+.container .column .tt .more {
+	position: absolute;
+	top: 0px;
+	left: -64px;
+}
+.col p span {
+	font-weight: 900;
+	color: #000;
+	font-family: "微软雅黑";
+	font-size: 16px;
+}
+.col p .col_red {
+	font-size: 14px;
+	font-weight: 400;
+	f
+}
+.col p a {
+	text-decoration: underline;
+	color: blue;
+	font-weight: 400;
+}
+.col p .lm {
+	color: lime;
+	font-size: 14px;
+}
+.left .bt {
+	font-size: 12px;
+	font-weight: 900;
+}
+.baidu {
+	color: lime;
+	margin-top: 5px;
+}
+.baidu a {
+	color: lime;
+}
+ins {
+	color: #ccc;
+	font-family: "微软雅黑";
+	font-weight: 900;
+}
+/*container 内容 end*/
+
+.footer {
+	margin-top: 30px;
+}
+.lef_page {
+	position: relative;
+}
+.lef_page a {
+	padding: 5px;
+	/*text-decoration: underline;*/
+	color: blue;
+	font-size: 18px;
+}
+.footer .lef_page a ins:hover {
+	color: orange;
+}
+.lef_page a ins {
+	color: blue;
+}
+.lef_page .ll {
+	color: #000;
+	/*padding-right: 0px;*/
+}
+.lef_page p {
+	/*float: right;*/
+	position: absolute;
+	top: 0px;
+	right: 400px;
+	font-size: 14px;
+	color: #ccc;
+}
+.links {
+	background-color: #ccc;
+	/*text-align: center;*/
+	/*height: 400px;*/
+}
+.links .bl {
+	position: relative;
+	height: 85px;
+}
+.links ul {
+	width: 600px;
+	height: 75px;
+	position: absolute;
+	top: 5px;
+	left: 145px;
+	/*margin: 0 auto;*/
+}
+.links .bl span {
+	font-size: 18px;
+	color: #000;
+	font-weight: 900;
+	position: absolute;
+	top: 15px;
+	left: 10px;
+}
+.links li {
+	padding: 10px;
+	float: left;
+}
+.links .ad {
+	padding: 10px 0 10px 30px;
+}
+.links .xw {
+	padding: 10px 0 10px 50px;
+}
+.links .sk {
+	padding: 10px 0 10px 58px;
+}
+.links .ch {
+	padding: 10px 0 10px 28px;
+}
+.links .yh {
+	padding: 10px 0 10px 65px;
+}
+.links .zh {
+	padding: 10px 0 10px 35px;
+}
+.links li a {
+	text-decoration: underline;
+	color: blue;
+	font-size: 16px;
+}
+.links li a:hover {
+	color: orange;
+}
+.copyright {
+	text-align: center;
+	padding: 20px;
+	font-size: 14px;
+	font-weight: 900;
+	color: #000;
+}
+a:hover {
+	color:orange !important;
+}
