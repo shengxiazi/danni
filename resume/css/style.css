@@ -139,7 +139,7 @@
 }
 .container .column .left .bt{
 	position: relative;
-	/*margin-top: 10px;*/
+	margin-top: 10px;
 }
 .container .column .left .bt .left{
 	background: url(../images/1.png) no-repeat 0px 0px;
