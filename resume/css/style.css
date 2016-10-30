@@ -107,8 +107,8 @@
 	color: #000;
 	font-weight: 400;
 	font-family: "微软雅黑";
-	margin-left: 70px;
-	margin-top: 0px;
+	margin-left: 0px;
+	margin-top: 20px;
 }
 .search .bt #ldn {
 	color: blue;
@@ -195,7 +195,7 @@
 .container .column .right .xz {
 	position: absolute;
 	top: 80px;
-	left: -298px;
+	left: -303px;
 }
 .container .column .right .xz p {
 	margin-bottom: 7px;
@@ -235,7 +235,7 @@
 	height: 492px;
 	position: relative;
 	top: 70px;
-	right: 140px;
+	right: 133px;
 	background: #fff url(../images/3.jpg) 0 0 no-repeat;
 }
 .container .column .tt .more {
