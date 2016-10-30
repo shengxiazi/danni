@@ -108,7 +108,7 @@
 	font-weight: 400;
 	font-family: "微软雅黑";
 	margin-left: 70px;
-	margin-top: 20px;
+	margin-top: 0px;
 }
 .search .bt #ldn {
 	color: blue;
@@ -177,7 +177,7 @@
 .container .column .right .more {
 	position: absolute;
 	top: 0px;
-	left: -239px;
+	left: -330px;
 	border-left: 2px solid #ccc;
 	padding-left: 20px;
 	/*padding-top: 40px;*/
@@ -194,8 +194,8 @@
 }
 .container .column .right .xz {
 	position: absolute;
-	top: 55px;
-	left: -217px;
+	top: 80px;
+	left: -298px;
 }
 .container .column .right .xz p {
 	margin-bottom: 7px;
@@ -235,13 +235,13 @@
 	height: 492px;
 	position: relative;
 	top: 70px;
-	right: 46px;
+	right: 140px;
 	background: #fff url(../images/3.jpg) 0 0 no-repeat;
 }
 .container .column .tt .more {
 	position: absolute;
 	top: 0px;
-	left: -64px;
+	left: -143px;
 }
 .col p span {
 	font-weight: 900;
