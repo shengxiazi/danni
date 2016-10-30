@@ -1,0 +1,366 @@
+
+/*版心部分*/
+.w {
+	margin-top: 50px;
+	margin-left: 20px;
+	margin-bottom: 100px;
+}
+
+/*左边部分 start*/
+.left {
+	width: 270px;
+	height: 1355px;
+	background-color:#F8F8F8;
+}
+/*左边部分 start*/
+
+/*右边部分 start*/
+.right {
+	width: 603px;
+	/*height: 1035px;*/
+	/*background-color: pink;*/
+}
+.info {
+	/*width: 513px;*/
+	height: 220px;
+	/*background-color: pink;*/
+	position: relative;
+	padding-left: 30px;
+}
+.w h3 {
+	font: 400 16px/30px "microsoft yahei";
+	/*margin-left: 30px;*/
+}
+.info i {
+	background: url(../images/info.jpg) no-repeat 0px 0px;
+	width: 17px;
+	height: 22px;
+	position: absolute;
+	top: 3px;
+	left: 5px;
+}
+.info p {
+	font: 400 14px/20px "microsoft yahei";
+	/*margin-left: 30px;*/
+	/*margin-right: 30px;*/
+}
+.education {
+	height: 590px;
+	/*background-color: blue;*/
+	position: relative;
+	padding-left: 30px;
+}
+.education i {
+	width: 22px;
+	height: 19px;
+	position: absolute;
+	top: 3px;
+	left: 3px;
+	background: url(../images/edu.jpg) no-repeat 0px 0px;
+}
+.uni h2 {
+	color: #00B7EE;
+	font: 400 18px/30px "microsoft yahei";
+	margin-top: 10px;
+}
+.uni p {
+	font: 400 14px/23px "microsoft yahei";
+	margin-top: 5px;
+}
+.club {
+	height: 965px;
+	border-left: 2px solid #00B7EE;
+	margin-left: 30px;
+	position: relative;
+	margin-top: 40px;
+}
+.club .cc1 {
+	width: 8px;
+	height: 10px;
+	background: url(../images/dot.jpg) no-repeat 0px 0px;
+	position: absolute;
+	top: 8px;
+	left: -6px;
+}
+.club .cc2 {
+	width: 8px;
+	height: 10px;
+	background: url(../images/dot.jpg) no-repeat 0px 0px;
+	position: absolute;
+	top: 240px;
+	left: -6px;
+}
+.club .cc3 {
+	width: 8px;
+	height: 10px;
+	background: url(../images/dot.jpg) no-repeat 0px 0px;
+	position: absolute;
+	top: 286px;
+	left: -6px;
+}
+.club .cc4 {
+	width: 8px;
+	height: 10px;
+	background: url(../images/dot.jpg) no-repeat 0px 0px;
+	position: absolute;
+	top: 340px;
+	left: -6px;
+}
+.club .cc5 {
+	width: 8px;
+	height: 10px;
+	background: url(../images/dot.jpg) no-repeat 0px 0px;
+	position: absolute;
+	top: 475px;
+	left: -6px;
+}
+.club .cc6 {
+	width: 8px;
+	height: 10px;
+	background: url(../images/dot.jpg) no-repeat 0px 0px;
+	position: absolute;
+	top: 645px;
+	left: -6px;
+}
+.club .cc7 {
+	width: 8px;
+	height: 10px;
+	background: url(../images/dot.jpg) no-repeat 0px 0px;
+	position: absolute;
+	top: 795px;
+	left: -6px;
+}
+.club .icon1 {
+	position: absolute;
+	top: -23px;
+	left: -32px;
+	width: 60px;
+	height: 21px;
+	line-height: 21px;
+	text-align: center;
+	border-radius: 10px;
+	border: 1px solid #00B7EE;
+}
+.club .icon2 {
+	position: absolute;
+	top: 205px;
+	left: -33px;
+	width: 50px;
+	height: 20px;
+	line-height: 20px;
+	text-align: center;
+	border: 1px solid #00B7EE;
+	border-radius: 10px;
+	background-color: #fff;
+
+}
+.club .icon3 {
+	position: absolute;
+	top: 305px;
+	left: -31px;
+	width: 60px;
+	height: 20px;
+	line-height: 20px;
+	text-align: center;
+	border: 1px solid #00B7EE;
+	border-radius: 10px;
+	background-color: #fff;
+}
+.club i {
+	position: absolute;
+	width:74px;
+	height:74px;
+	top:-140px;
+	left:562px;
+	background: url(../images/uni.jpg) no-repeat -24px 0px;
+}
+.exp {
+	font: 400 14px/30px "microsoft yahei";
+/*	border-left: 2px solid #00B7EE;
+*/	margin-left: 35px;
+	margin-top: 30px;
+}
+.exp p span.stu {
+	font: 900 16px/30px "microsoft yahei";
+}
+.exp span {
+	font: 400 12px/23px "microsoft yahei";	
+}
+.exp ul{
+	list-style: disc;
+}
+.exp .one {
+	font: 900 16px/30px "microsoft yahei";
+	margin-top: 20px;
+}
+.work {
+	height: 195px;
+	/*background-color: yellow;*/
+	border-left: 2px solid #00B7EE;
+	margin-left: 60px;
+	position: relative;
+}
+.work i {
+	width: 26px;
+	height: 19px;
+	position: absolute;
+	top: -34px;
+	left: -61px;
+	background: url(../images/wor.jpg) no-repeat 0px 0px;
+}
+.work h3 {
+	background-color: #fff;
+	border-left: 1px solid #fff;
+	position: absolute;
+	top:-38px;
+	left:-35px;
+}
+.work .icon11 {
+	position: absolute;
+	top: -9px;
+	left: -31px;
+	width: 60px;
+	height: 20px;
+	line-height: 20px;
+	text-align: center;
+	border: 1px solid #00B7EE;
+	border-radius: 10px;
+	background-color: #fff;	
+}
+.work .icon22 {
+	position: absolute;
+	top: 460px;
+	left: -31px;
+	width: 60px;
+	height: 20px;
+	line-height: 20px;
+	text-align: center;
+	border: 1px solid #00B7EE;
+	border-radius: 10px;
+	background-color: #fff;	
+}
+/*右边部分 start*/
+/*左边部分 start*/
+.pic {
+	/*height: 178px;*/
+	/*background-color: red;*/
+	position: relative;
+}
+.pic a {
+	/*background: url(../images/dn.jpg) no-repeat 0px 0px;*/
+	display: inline-block;
+	height: 153px;
+	width: 147px;
+	margin: 40px 60px;
+}
+.pic a img {
+	/*border-radius: 0px;
+	margin-left: 0px;
+	background-color: #F8F8F;*/
+	position: absolute;
+	top: 40px;
+	right: 55px;
+}
+.wish {
+	width: 265px;
+	/*height: 150px;*/
+	/*background-color: red;*/
+}
+.wish p {
+	font: 400 12px/25px "microsoft yahei";
+	text-align: center;
+	margin-left: 3px;	
+}
+.contact {
+	width: 245px;
+	height: 150px;
+	padding-left: 20px;
+	/*background-color: red;*/
+	position: relative;
+	margin-top: 25px;
+}
+.contact i {
+	width: 22px;
+	height: 23px;
+	position: absolute;
+	top: 3px;
+	left: 25px;
+	background: url(../images/cont.jpg) no-repeat 0px 0px;
+}
+.contact h3 {
+	margin-left: 29px;
+}
+.contact p {
+	font: 400 14px/25px "microsoft yahei";
+}
+.skill {
+	/*width: 245px;*/
+	/*height: 150px;*/
+	padding-left: 20px;
+	/*background-color: red;*/
+	position: relative;
+}
+.skill b {
+	width: 26px;
+	height: 21px;
+	position: absolute;
+	top: 5px;
+	left: 20px;
+	background: url(../images/ski.jpg) no-repeat 0px 0px;
+}
+.skill h3 {
+	margin-left: 29px;
+}
+.skill p {
+	font: 400 14px/30px "microsoft yahei";
+	background: url(../images/skll_bg.jpg) no-repeat 165px 5px;
+}
+.paper {
+	/*width: 245px;*/
+	/*height: 150px;*/
+	padding-left: 20px;
+	/*background-color: red;*/
+	position: relative;
+	margin-top: 40px;
+}
+.paper em {
+	width: 19px;
+	height: 21px;
+	position: absolute;
+	top: 5px;
+	left: 28px;
+	background: url(../images/pap.jpg) no-repeat 0px 0px;
+}
+.paper h3 {
+	margin-left: 29px;
+}
+.paper p {
+	font: 400 14px/30px "microsoft yahei";
+}
+.hobby {
+	/*width: 245px;*/
+	/*height: 150px;*/
+	padding-left: 20px;
+	/*background-color: red;*/
+	position: relative;
+	margin-top: 40px;
+}
+.hobby h3 {
+	margin-left: 29px;
+}
+.hobby s {
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	top: 5px;
+	left: 26px;
+	background: url(../images/hob.jpg) no-repeat 0px 0px;
+	/*margin-left: 10px;*/
+}
+.hobby a {
+	font: 400 14px/30px "microsoft yahei";
+	padding-left: 15px;
+	background: url(../images/hb_bg.jpg) no-repeat 0px 5px;
+	cursor: pointer;
+}
+/*左边部分 end*/
