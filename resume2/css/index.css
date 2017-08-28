@@ -364,3 +364,10 @@
 	cursor: pointer;
 }
 /*左边部分 end*/
+
+.bl li {
+	float: left;
+}
+.bl li a {
+	padding: 5px;
+}
