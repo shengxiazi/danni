@@ -367,6 +367,7 @@
 
 .bl li {
 	float: left;
+	margin: 5px;
 }
 .bl li a {
 	padding: 15px;
